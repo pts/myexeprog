@@ -1,6 +1,8 @@
 #! /bin/sh
 # by pts@fazekas.hu at Tue Apr  7 23:15:20 CEST 2020
 #
+# Cross-compile on Linux with OpenWatcom to various EXE targets.
+#
 # See https://ptspts.blogspot.com/2020/04/openwatcom-exeprog.html
 # for installation and docs.
 #
